@@ -1,0 +1,10 @@
+{
+  "WillLuke.nextjs.addTypesOnSave": true,
+  "WillLuke.nextjs.hasPrompted": true,
+  "outline.collapseItems": "alwaysExpand",
+  "scm.autoReveal": true,
+  "scm.alwaysShowRepositories": false,
+  "scm.alwaysShowActions": false,
+  "explorer.fileNesting.enabled": false,
+  "scm.countBadge": "all"
+}
